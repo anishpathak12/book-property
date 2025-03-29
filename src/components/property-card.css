@@ -1,0 +1,19 @@
+.property-card{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 30%;
+    height: 30%;
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    
+    
+}
+
+.property-card__details{
+    height: 200px;
+    text-align: center;
+}
+

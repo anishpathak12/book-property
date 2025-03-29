@@ -1,0 +1,10 @@
+
+.properties{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px
+  /* height: 50vh; */
+  /* width: 100vw; */
+  /* max-width: min-content; */
+}
